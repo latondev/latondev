@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="hello" />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding gif" />
 </div>
 
 ###
@@ -28,6 +28,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=latondev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=latondev&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true" height="150" alt="github stats" />
+</div>
 
 ###
 
